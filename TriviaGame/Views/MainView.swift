@@ -19,7 +19,7 @@ struct MainView: View {
                 NavigationLink {
                     TriviaView()
                 } label: {
-                    GeneralButton(text: "Let's go")
+                    GeneralButton(text: "Let's go!")
 
                 }
                 Spacer()
